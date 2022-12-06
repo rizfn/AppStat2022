@@ -1,0 +1,23 @@
+Measurments before experiment:
+L_marcus = 18,504 m \pm 1 mm
+L_rune = 18,504 m \pm 2 mm
+L_riz = 18,506 m \pm 1 mm
+L_brage = 18,506 m \pm 1 mm
+
+Measurments after experiment:
+L_marcus = 18.504 \pm 1 mm
+L_brage = 18.506 \pm 1 mm
+L_riz = 18.504 \pm 1 mm
+L_rune = 18.504 \pm 1 mm
+
+One should subtract half of the height of the mass from all of the above measurements in order to obtain the distance from hook to COM
+Laser measurements: (floor to hook, so floor to bottom of pendulum should be subtracted (22.1 cm) height of lazer 11.742 cm))
+L_marcus = 18.730
+
+sigma_laser =   # uncertainty of 0.5 of last decimal
+
+M_r = 0.500 # written mass of pendulum kg
+H_marcus = 3.001 \pm 0.001 cm
+H_rune = 3.001 \pm 0.001 cm
+H_riz = 3.012 \pm 0.001 cm
+H_brage 3.001 \pm 0.001 cm

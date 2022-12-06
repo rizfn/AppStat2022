@@ -1,0 +1,58 @@
+theta_marcus = 90 - 75.9 \pm 0.2 deg  # angle of 
+theta_rune = 90 - 75.7 \pm 0.2 deg
+theta_riz = 90 - 75.7 \pm 0.2 deg
+theta_brage 90 - 75.5 \pm 0.2 deg
+
+d_r_brage = 0.60 \pm 0.005 cm
+d_r_rune = 0.62 \pm 0.01 cm
+d_r_riz = 0.62 \pm 0.005 cm
+d_r_marcus = 0.59 \pm 0.005 cm
+
+gate1_marcus = 18.7 \pm 0.05 cm
+gate2_marcus = 36.45 \pm 0.05 cm
+gate3_marcus = 54.65 \pm 0.05 cm
+gate4_marcus = 73.50 \pm 0.05 cm
+gate5_marcus = 91.23 \pm 0.05 cm
+
+gate1_rune = 18.7 \pm 0.05 cm
+gate2_rune = 36.40 \pm 0.05 cm
+gate3_rune = 54.65 \pm 0.05 cm
+gate4_rune = 73.50 \pm 0.05 cm
+gate5_rune = 91.23 \pm 0.05 cm
+
+gate1_riz = 18.7 \pm 0.05 cm
+gate2_riz = 36.45 \pm 0.05 cm
+gate3_riz = 54.65 \pm 0.05 cm
+gate4_riz = 73.50 \pm 0.05 cm
+gate5_riz = 91.23 \pm 0.05 cm
+
+gate1_brage = 18.7 \pm 0.05 cm
+gate2_brage = 36.45 \pm 0.05 cm
+gate3_brage = 54.65 \pm 0.05 cm
+gate4_brage = 73.50 \pm 0.05 cm
+gate5_brage = 91.23 \pm 0.05 cm
+
+D_s = 1.270 \pm 0.005 cm
+D_s = 1.275 \pm 0.005 cm
+D_s = 1.270 \pm 0.005 cm
+D_s = 1.270 \pm 0.005 cm
+
+D_b = 1.500 \pm 0.005 cm
+D_b = 1.500 \pm 0.005 cm
+D_b = 1.500 \pm 0.005 cm
+D_b = 1.500 \pm 0.005 cm
+
+pythagoras:  
+w = 89.50 \pm 0.1cm
+w = 89.85 \pm 0.1cm
+w = 90.05 \pm 0.1cm
+w = 90.20 \pm 0.1cm
+
+h = 22.30 \pm 0.1cm
+h = 22.35 \pm 0.1cm
+h = 22.25 \pm 0.1cm
+h = 22.25 \pm 0.1cm
+
+
+
+
