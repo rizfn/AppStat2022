@@ -1,0 +1,1 @@
+Not attended, Julefrokost
